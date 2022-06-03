@@ -6,12 +6,8 @@
 
 <div style="display: flex">
   <a href="https://github.com/azevedo819">
-  <div>
-    <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=azevedo819&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-    <div>
-      <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azevedo819&layout=compact&langs_count=7&theme=dracula"/>
-    </div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azevedo819&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azevedo819&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   
